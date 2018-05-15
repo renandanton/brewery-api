@@ -25,7 +25,7 @@ Clone the repository project:
 Enter in project directory,
 
 ``` bash
-    $ cd brewery
+    $ cd brewery-api
 ```
 
 And then execute:
